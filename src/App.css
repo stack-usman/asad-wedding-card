@@ -1,5 +1,16 @@
 .App {
   text-align: center;
+  background-color: #debda1;
+  max-width: 450px;
+  margin: auto;
+}
+
+body {
+  background: #debda1;
+}
+
+html {
+  scroll-behavior: smooth;
 }
 
 .App-logo {
